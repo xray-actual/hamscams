@@ -1,8 +1,14 @@
 # Introduction
 A list of callsigns that bribe you for LoTW confirmations.
 
+![HAM Scams](image.png)
 # The List
 | Callsign | QRZ | Reason |
 |---       |---  |---     |
-| AE1SVN     | qrz.com/ae1svn | Pay for ClubLog QSL, then I'll confirm via LOTW |
-| AE2SCM     | qrz.com/ae2scm | Pay for my DXpedtion. then LOTW confirmation |
+| CN8NY     | [title](https://www.qrz.com/db/CN8NY) | No e-QSL.No LoTW, No QRZ Log,....No e-Log. |
+| J51A      | [title](https://www.example.com)
+| TJ1GD     | [title](https://www.example.com)
+| TL8GD     | [title](https://www.example.com)
+| TT1GD     | [title](https://www.example.com)
+| TY5AD     | [title](https://www.example.com)
+
